@@ -1,0 +1,17 @@
+{
+    "machines": [
+      {
+        "name": "machine_1",
+        "carTime": 10,
+        "truckTime": 15,
+        "changeTime": 2.5
+      },
+      {
+        "name": "machine_2",
+        "carTime": 12,
+        "truckTime": 18,
+        "changeTime": 1.5
+      }
+    ]
+  }
+  

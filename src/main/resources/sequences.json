@@ -1,0 +1,274 @@
+{
+  "sequences": [
+    {
+      "sequence_number": 1,
+      "machine_1": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ],
+      "machine_2": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ]
+    },
+    {
+      "sequence_number": 2,
+      "machine_1": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ],
+      "machine_2": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ]
+    },
+    {
+      "sequence_number": 3,
+      "machine_1": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ],
+      "machine_2": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ]
+    },
+    {
+      "sequence_number": 4,
+      "machine_1": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ],
+      "machine_2": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ]
+    },
+    {
+      "sequence_number": 5,
+      "machine_1": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ],
+      "machine_2": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ]
+    },
+    {
+      "sequence_number": 6,
+      "machine_1": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ],
+      "machine_2": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ]
+    },
+    {
+      "sequence_number": 7,
+      "machine_1": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ],
+      "machine_2": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ]
+    },
+    {
+      "sequence_number": 8,
+      "machine_1": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ],
+      "machine_2": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ]
+    },
+    {
+      "sequence_number": 9,
+      "machine_1": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ],
+      "machine_2": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ]
+    },
+    {
+      "sequence_number": 10,
+      "machine_1": [
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "car",
+        "car"
+      ],
+      "machine_2": [
+        "car",
+        "truck",
+        "car",
+        "car",
+        "truck",
+        "car",
+        "truck",
+        "truck",
+        "car",
+        "truck"
+      ]
+    }
+  ]
+}
