@@ -1,11 +1,19 @@
 package faps;
 
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
 
-import javax.sound.midi.Sequence;
 
-public class root {
+public class Root {
 
-    public ArrayList<Sequence> sequences;
+    public List<Sequence> sequences;
 
+    public List<Sequence> getSequences() {
+        return sequences;
+    }
+
+    public void setSequences(List<Sequence> sequences) {
+        this.sequences = sequences;
+    }
 }
